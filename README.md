@@ -1,3 +1,18 @@
+# SENG365 2020 Assignment 2 
+
+## THIS IS UPLOADED FROM MY DRIVE AS IS, SO IT MIGHT/WILL BE BROKEN.
+this is mainly to show some of the work i did
+
+
+
+
+
+
+
+
+# DEFUALT README
+
+
 # assignment_2_client
 
 > assignment 2 client side
